@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+dist/
+dist_deploy/
+conf.local.js
+.DS_Store
+dist2/
+.vscode/
+.history/
+build
